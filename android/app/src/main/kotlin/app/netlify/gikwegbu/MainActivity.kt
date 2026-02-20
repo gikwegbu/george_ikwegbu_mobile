@@ -1,4 +1,4 @@
-package app.netlify.george_ikwegbu_mobile
+package app.netlify.gikwegbu
 
 import io.flutter.embedding.android.FlutterActivity
 
